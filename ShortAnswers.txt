@@ -1,0 +1,109 @@
+Q1:
+I'm using a windows computer.
+
+
+Q2:
+For elem 3, the name was not accessible and the weight
+was approximately -4.836698. For elem 4, the name was
+not accessible and the weight was 0.0. For elem 5
+the name was not accessible and the weight was
+approximately -2.659843.
+
+
+Q3:
+
+        Jackie
+        (1951)
+       /     \
+     Tito   Jermaine
+    (1953)   (1954)
+    /    \
+ Michael Marlon
+ (1958)  (1957)
+
+
+        Jackie
+        (1951)
+        /     \
+     Tito   Jermaine
+    (1953)   (1954)
+    /    \
+ Marlon  Michael
+ (1957)  (1958)
+
+
+        Jackie
+        (1951)
+        /     \
+      Tito   Marlon
+     (1953)   (1957)
+     /    \
+  Michael Jermaine
+  (1958)  (1954)
+
+
+Q4:
+
+                T
+               (1)
+             /     \
+           B         G
+          (3)       (2)
+         /   \     /   \
+        S     A   V     R
+       (6)   (5) (9)   (4)
+      /   \
+     O     K
+    (8)   (7)
+
+
+Q5:
+
+                G
+               (2)
+             /     \
+           B         R
+          (3)       (4)
+         /   \     /   \
+        S     A   V     K
+       (6)   (5) (9)   (7)
+      /
+     O
+    (8)
+
+
+Q6:
+
+  0 --- unused
+  1 --- T (1)
+  2 --- B (3)
+  3 --- G (2)
+  4 --- S (6)
+  5 --- A (5)
+  6 --- V (9)
+  7 --- R (4)
+  8 --- O (8)
+  9 --- K (7)
+
+
+Q7:
+
+It is true that 89 more people in New York would give New York another house seat.
+
+
+
+
+
+
+
+Q8:
+
+It is true that 26 fewer people in Minnesota would give New York another house seat.
+
+
+
+
+
+
+
+
